@@ -101,6 +101,10 @@ ElasticNet在我们发现用Lasso回归太过(太多特征被稀疏为0),而岭�
 
 在用线性回归模型拟合数据之前，首先要求数据应符合或近似符合正态分布，否则得到的拟合函数不正确。
 
+
+------
+数据分布和噪声分布式什么意思？
+
 ## 7. [代码实现](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression/demo)
 
 ------
